@@ -1,13 +1,13 @@
 title: Indian Statistical Institute Academic Calendar
 description: Academic Calendar Website for ISI, 2nd Semester 2025–2026
-baseurl: ""
-url: "http://your-github-io-site-url"
+baseurl: "/isi-sansani" 
+url: "https://gouthamsaipydi.github.io" 
 markdown: kramdown
 theme: minima
 
 author:
-  name: Indian Statistical Institute
-  email: contact@isical.ac.in
+  name: "Goutham Sai Pydi"
+  email: "saigouthampydi@gmail.com"
 
 plugins:
   - jekyll-feed
